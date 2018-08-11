@@ -1,0 +1,15 @@
+var website = "www.google.com";
+var digit = 10;
+var bool = true;
+var a;
+var b = null;
+console.log(website);
+console.log(digit);
+console.log(bool);
+console.log(a);
+console.log(b);
+console.log(typeof website);
+console.log(typeof digit);
+console.log(typeof bool);
+console.log(typeof a);
+console.log(typeof b);
