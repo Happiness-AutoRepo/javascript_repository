@@ -1,6 +1,6 @@
 exports.config = {
     // seleniumAddress: 'http://localhost:4444/wd/hub',
-    specs: ['protractorLocators.js'],
+    specs: ['demo.spec.js.js'],
     framework: 'jasmine',
     directConnect: 'true',
     capabilities: {
