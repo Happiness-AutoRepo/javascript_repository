@@ -1,0 +1,48 @@
+
+
+{   
+    "customers":[
+        {   "fName": "Michael",
+            "lName":"Schumacher",
+            "DoB":"01/03/1969",
+            "SSN":"434-55-6231",
+            "citizenCountry":"Germany",
+            "address":"345 Spear St, San Francisco, CA 94105",
+            "email":"example@google.com",
+            "phoneNumber":"415-736-0000",
+            "employmentStatus":"Retired",
+            "income":150000,
+            "rent":1200,
+            "bankAccounts":[
+                "Checking and Savings",
+                "Checking Only",
+                "Saving Only",
+                "Neither"],
+            "monthlyCardBill":1500,
+            "username":"F1Racer",
+            "password":"Monaco"
+        },  
+        {   "fName": "Lewis",
+            "lName":"Hamilton",
+            "DoB":"07/01/1985",
+            "SSN":"434-55-7231",
+            "citizenCountry":"United Kingdom",
+            "address":"Apple Campus, Cupertino, CA 95014",
+            "email":"example@google.com",
+            "phoneNumber":"415-736-0000",
+            "employmentStatus":"Employed",
+            "income":150000,
+            "rent":1200,
+            "bankAccounts":[
+                "Checking and Savings",
+                "Checking Only",
+                "Saving Only",
+                "Neither"],
+            "monthlyCardBill":1500,
+            "username":"F1racer",
+            "password":"Australia"
+
+    }
+]
+
+}
